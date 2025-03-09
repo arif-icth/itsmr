@@ -20,7 +20,7 @@ CREATE DATABASE dre; or from my sql tool/xamps server using http://127.0.0.1/php
 step 4.
 USE dre;
 
-CREATE TABLE dre_record1 (
+CREATE TABLE dre_records (
 id INT AUTO_INCREMENT PRIMARY KEY,
 name VARCHAR(255) NOT NULL,
 certification_date DATE NOT NULL,
